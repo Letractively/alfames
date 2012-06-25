@@ -1,3 +1,4 @@
+[AdBlock 1.11]
 ###ad_text
 *.98766.com/*.swf
 */ad*.js
