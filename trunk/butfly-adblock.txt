@@ -1,10 +1,11 @@
 [AdBlock 1.11]
 ###ad_text
-*.98766.com/*.swf
+*.98766.com/*
 */ad*.js
 */ad1.htm
 */baidu/*.js|
 */t.js
+*.84787111.com/*
 09wxw.com###AdsT
 1718k.com###sidebar
 1718k.com###sidebar_btn
