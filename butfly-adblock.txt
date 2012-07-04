@@ -1,11 +1,9 @@
 [AdBlock 1.1]
 ###ad_text
-*.98766.com/*
 */ad*.js
 */ad1.htm
 */baidu/*.js|
 */t.js
-*.84787111.com/*
 09wxw.com###AdsT
 1718k.com###sidebar
 1718k.com###sidebar_btn
@@ -328,3 +326,7 @@ xinshenbuning.net##TABLE.portalbox
 ||xp3366.com^
 ||yiqiwin.com
 ||zhongshengzhiguandao.cn^
+||rtys.us^
+||84787111.com^
+||98766.com^
+||teacher.com.cn^
