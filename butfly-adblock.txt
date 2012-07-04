@@ -1,9 +1,19 @@
-[AdBlock 1.1]
-###ad_text
+[Adblock Plus 1.1]
+! Checksum: 
+! Popup Block List for Adblock Plus Popup Addon (Alpha)
+! Updated: 3 Jul 2012
+! This list expires after 3 days
+! License http://creativecommons.org/licenses/by/3.0/
+! Report False Positives or unblocked popups to zbutfly@gmail.com
+! Homepage: http://www.butfly.com/
+!
+##ad_text
+! --------- common script ----- !
 */ad*.js
 */ad1.htm
-*/baidu/*.js|
+*/baidu/*.js
 */t.js
+! --------- elements hidden list ----- !
 09wxw.com###AdsT
 1718k.com###sidebar
 1718k.com###sidebar_btn
@@ -37,7 +47,6 @@ binhuo.com##DIV[style="float:none;background-color:#f0f0f0;width:950px;height:25
 book.ydnovel.com###ptcmsad1
 c1c1c.com##DIV.ggwz
 caihongwenxue.com##DIV#titlebottom
-caihongwenxue.com##TABLE&NBSP;BORDER=”0″&NBSP;ALIGN=”LEFT”
 chinabike.net##FRAME[name="hi"]
 co108w.col108.mail.live.com##DIV.SideAds.TodayContentModule
 d5zw.com##DIV[style="width: 1000px; height: 300px; margin: 20px auto auto; text-align: center;"]
@@ -136,6 +145,7 @@ xiaoshuo570.com###sc
 xiaoshuo570.com##[id*="ad*"]
 xiashu.net##TABLE[style="table-layout: fixed; word-wrap: break-word;"]
 xinshenbuning.net##TABLE.portalbox
+! --------- url preix list ----- !
 |http://55620.com/*
 |http://60.190.105.3/pagead/*
 |http://72.9.150.130/~admin/ebook/rule/rule*.swf
@@ -212,6 +222,7 @@ xinshenbuning.net##TABLE.portalbox
 |http://www.xiashu.net/js/tan000.js
 |http://www.yxg.cm/js/foot.js
 |http://www.yxg.cm/scripts/bottom.js
+! --------- domain list ----- !
 ||09wxw.com/JS/tan/*
 ||114so.cn^
 ||116b.com^
