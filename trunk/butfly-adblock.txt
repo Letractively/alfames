@@ -14,6 +14,7 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+newsmth.net###sogou_banner
 09wxw.com###AdsT
 1718k.com###sidebar
 1718k.com###sidebar_btn
@@ -343,3 +344,4 @@ xinshenbuning.net##TABLE.portalbox
 ||teacher.com.cn^
 ||tbjfw.com^
 ||igexin.com^
+
