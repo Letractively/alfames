@@ -344,4 +344,4 @@ xinshenbuning.net##TABLE.portalbox
 ||teacher.com.cn^
 ||tbjfw.com^
 ||igexin.com^
-
+||newsmth.net/nForum/baiduunion/*
