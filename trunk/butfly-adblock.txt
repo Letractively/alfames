@@ -1,8 +1,7 @@
 [Adblock Plus 1.1]
 ! Checksum: 
-! Popup Block List for Adblock Plus Popup Addon (Alpha)
-! Updated: 3 Jul 2012
-! This list expires after 3 days
+! Butfly's Block List for Adblock (Beta)
+! Updated: 20 Jul 2012
 ! License http://creativecommons.org/licenses/by/3.0/
 ! Report False Positives or unblocked popups to zbutfly@gmail.com
 ! Homepage: http://www.butfly.com/
@@ -345,3 +344,5 @@ xinshenbuning.net##TABLE.portalbox
 ||tbjfw.com^
 ||igexin.com^
 ||newsmth.net/nForum/baiduunion/*
+||feike5.com^
+||5173.com^
