@@ -348,4 +348,5 @@ xinshenbuning.net##TABLE.portalbox
 ||newsmth.net/nForum/baiduunion/*
 ||feike5.com^
 ||5173.com^
+|http://js.t.sinajs.cn/*/wbad.js*
 
