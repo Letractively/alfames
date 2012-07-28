@@ -13,6 +13,7 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+weibo.com##.oly_win
 weibo.com###trustPagelet_yunying_olympic
 newsmth.net###sogou_banner
 09wxw.com###AdsT
