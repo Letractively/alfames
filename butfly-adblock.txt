@@ -13,6 +13,7 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+weibo.com###trustPagelet_yunying_olympic
 newsmth.net###sogou_banner
 09wxw.com###AdsT
 1718k.com###sidebar
@@ -346,3 +347,4 @@ xinshenbuning.net##TABLE.portalbox
 ||newsmth.net/nForum/baiduunion/*
 ||feike5.com^
 ||5173.com^
+
