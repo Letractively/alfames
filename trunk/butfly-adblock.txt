@@ -226,6 +226,7 @@ xinshenbuning.net##TABLE.portalbox
 |http://www.yxg.cm/scripts/bottom.js
 ! --------- domain list ----- !
 ||09wxw.com/JS/tan/*
+||60.191.214.*^
 ||114so.cn^
 ||116b.com^
 ||198game.com^$popup
