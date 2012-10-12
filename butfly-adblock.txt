@@ -120,7 +120,6 @@ sexinsex.net##.ad_pip
 sexinsex.net##DIV#ad_text
 sexinsex.net##DIV#header
 sexinsex.net##TABLE.portalbox
-sodu.org###bdshare
 sohubook.com###jrsq
 sohubook.com###ksw_pagebody02_right
 sohubook.com##.dishe
@@ -355,4 +354,5 @@ xinshenbuning.net##TABLE.portalbox
 ||feike5.com^
 ||5173.com^
 |http://js.t.sinajs.cn/*/wbad.js*
+||share.baidu.com^
 
