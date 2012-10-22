@@ -13,6 +13,10 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+weibo.com###pl_rightmod_noticeboard
+weibo.com###pl_rightmod_vservice
+weibo.com##[id^="pl_rightmod_ads"]
+weibo.com##[id^="trustPagelet_"]
 weibo.com###bottomborder
 weibo.com###pl_common_help
 weibo.com###pl_common_noticeboard
