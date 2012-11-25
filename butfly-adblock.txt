@@ -359,4 +359,4 @@ xinshenbuning.net##TABLE.portalbox
 ||5173.com^
 |http://js.t.sinajs.cn/*/wbad.js*
 ||share.baidu.com^
-
+||sis001.com/forum/paypic/*
