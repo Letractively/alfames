@@ -15,6 +15,11 @@
 ! --------- elements hidden list ----- !
 eyny.com###col
 eyny.com##TABLE[height="240"][style="margin-bottom:10px"]
+eyny.com###forum_rules_343
+eyny.com##TABLE[style="margin-top:5px"]
+eyny.com##TD.p_pre_td
+eyny.com###ft
+eyny.com##.hdc.cl
 weibo.com###pl_rightmod_noticeboard
 weibo.com###pl_rightmod_vservice
 weibo.com##[id^="pl_rightmod_ads"]
