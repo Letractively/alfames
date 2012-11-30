@@ -360,3 +360,5 @@ xinshenbuning.net##TABLE.portalbox
 |http://js.t.sinajs.cn/*/wbad.js*
 ||share.baidu.com^
 ||sis001.com/forum/paypic/*
+||file-static.com^
+||static-file.com^
