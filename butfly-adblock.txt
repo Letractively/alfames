@@ -13,6 +13,8 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+eyny.com###col
+eyny.com##TABLE[height="240"][style="margin-bottom:10px"]
 weibo.com###pl_rightmod_noticeboard
 weibo.com###pl_rightmod_vservice
 weibo.com##[id^="pl_rightmod_ads"]
