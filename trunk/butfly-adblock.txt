@@ -369,3 +369,4 @@ xinshenbuning.net##TABLE.portalbox
 ||sis001.com/forum/paypic/*
 ||file-static.com^
 ||static-file.com^
+||uyan.cc^
