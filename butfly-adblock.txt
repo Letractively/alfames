@@ -166,7 +166,7 @@ xinshenbuning.net##TABLE.portalbox
 |http://55620.com/*
 |http://60.190.105.3/pagead/*
 |http://72.9.150.130/~admin/ebook/rule/rule*.swf
-|http://ad.doubleclick.net/*
+||ad.doubleclick.net^
 |http://adultfriendfinder.com/*
 |http://banners.adultfriendfinder.com/*
 |http://c.pee.cn/*
@@ -300,7 +300,7 @@ xinshenbuning.net##TABLE.portalbox
 ||etopad.com^
 ||fu2.sdo.com^
 ||fw.qq.com^
-||g.doubleclick.net
+||g.doubleclick.net^
 ||getan.net
 ||googlesyndication.com
 ||hx2car.com^
