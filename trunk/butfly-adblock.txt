@@ -370,3 +370,7 @@ xinshenbuning.net##TABLE.portalbox
 ||file-static.com^
 ||static-file.com^
 ||uyan.cc^
+||qlunion.com^
+||whoclick.cn^
+||61.4.185.48:81/*
+
