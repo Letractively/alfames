@@ -4,7 +4,7 @@
 ! Updated: 20 Jul 2012
 ! License http://creativecommons.org/licenses/by/3.0/
 ! Report False Positives or unblocked popups to zbutfly@gmail.com
-! Homepage: http://www.butfly.com/
+! Homepage: https://code.google.com/p/alfames/source/browse/trunk/butfly-adblock.txt?edit=1
 !
 ##ad_text
 ! --------- common script ----- !
@@ -20,6 +20,7 @@ eyny.com##TABLE[style="margin-top:5px"]
 eyny.com##TD.p_pre_td
 eyny.com###ft
 eyny.com##.hdc.cl
+weibo.com##[class="layer_tips_cont"]
 weibo.com###pl_rightmod_noticeboard
 weibo.com###pl_rightmod_vservice
 weibo.com##[id^="pl_rightmod_ads"]
