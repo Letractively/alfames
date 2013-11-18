@@ -13,6 +13,7 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+forum.xitek.com##[class="a_mu"]
 eyny.com###col
 eyny.com##TABLE[height="240"][style="margin-bottom:10px"]
 eyny.com###forum_rules_343
