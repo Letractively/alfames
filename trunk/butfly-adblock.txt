@@ -1,11 +1,15 @@
-[Adblock Plus 1.1]
-! Checksum: 
+[Adblock Plus 2.0]
+!! Checksum: 
+! Version: 20140708
+! Title: ButflyList
 ! Butfly's Block List for Adblock (Beta)
-! Updated: 20 Jul 2012
-! License http://creativecommons.org/licenses/by/3.0/
-! Report False Positives or unblocked popups to zbutfly@gmail.com
-! Homepage: https://code.google.com/p/alfames/source/browse/trunk/butfly-adblock.txt?edit=1
-!
+! Last modified: 08 Jul 2014 06:10 UTC
+! Expires: 15 days (update not frequency)
+! Homepage: http://www.butfly.net/
+
+! Please report any unblocked adverts or problems
+! via e-mail (zbutfly@gmail.com).
+
 ##ad_text
 ! --------- common script ----- !
 */ad*.js
@@ -375,4 +379,3 @@ xinshenbuning.net##TABLE.portalbox
 ||qlunion.com^
 ||whoclick.cn^
 ||61.4.185.48:81/*
-
