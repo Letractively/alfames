@@ -17,6 +17,7 @@
 */baidu/*.js
 */t.js
 ! --------- elements hidden list ----- !
+bbs.aoshitang.com###msg_win
 forum.xitek.com##[class="a_mu"]
 eyny.com###col
 eyny.com##TABLE[height="240"][style="margin-bottom:10px"]
@@ -379,3 +380,4 @@ xinshenbuning.net##TABLE.portalbox
 ||qlunion.com^
 ||whoclick.cn^
 ||61.4.185.48:81/*
+||aoshitang.com/mainos/upload/gcld/flash/*
