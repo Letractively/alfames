@@ -5,7 +5,7 @@
 ! Butfly's Block List for Adblock (Beta)
 ! Last modified: 08 Jul 2014 06:10 UTC
 ! Expires: 15 days (update not frequency)
-! Homepage: http://www.butfly.net/
+! Homepage: https://code.google.com/p/alfames/source/browse/trunk/butfly-adblock.txt
 
 ! Please report any unblocked adverts or problems
 ! via e-mail (zbutfly@gmail.com).
@@ -221,7 +221,7 @@ xinshenbuning.net##TABLE.portalbox
 |http://www.92to.com/js/read_select.js
 |http://www.92to.com/js/read_select_do.js
 |http://www.99zw.cn/cw.gif
-|http://www.baidu.com/baidu?tn=lxwxw_pg&tr=WKfEfU7TeYY&word=%D2%EC%BD%E7%D6%AE%B5%D8%CF%C2%C1%EC%D6%F7
+|http://www.baidu.com/baidu?tn=^
 |http://www.caihongwenxue.com/js/ContentRight*.js
 |http://www.cszww.com/configs/article/gggg/top2.html
 |http://www.cszww.com/configs/article/gggg/vod.html
