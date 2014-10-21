@@ -341,6 +341,7 @@ xinshenbuning.net##TABLE.portalbox
 ||microad.jp^
 ||mitbbs.com/ad_file^
 ||mitbbs.com/ad_pics^
+||mmcdn.cn^
 ||mmjq.com
 ||mobile01.com/image/mod_ad
 ||na7.cc^
