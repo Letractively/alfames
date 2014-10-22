@@ -404,3 +404,4 @@ xinshenbuning.net##TABLE.portalbox
 ||zhongshengzhiguandao.cn^
 ||inte.sogou.com^
 ||70j.cn/AD^
+|http://js2.t.sinajs.cn/t6/home/js/pl/content/biztips^
