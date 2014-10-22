@@ -405,3 +405,4 @@ xinshenbuning.net##TABLE.portalbox
 ||inte.sogou.com^
 ||70j.cn/AD^
 ||js2.t.sinajs.cn/t6/home/js/pl/content/biztips^
+||s.alitui.weibo.com^
