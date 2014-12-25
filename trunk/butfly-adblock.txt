@@ -411,7 +411,7 @@ xinshenbuning.net##TABLE.portalbox
 ||1x3x.com^
 ||37fd.net^
 ||88rpg.net^
-||appsina.com/hotShare^
+#||appsina.com/hotShare^
 ||chinauma.net^
 ||kejet.net^
 ||kk7kk.com^
