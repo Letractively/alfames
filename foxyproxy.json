@@ -1,5 +1,14 @@
 {
   "patterns": [
+      {
+      "enabled": true,
+      "name": "cloud",
+      "pattern": "*.dropbox.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
     {
       "enabled": true,
       "name": "devel",
