@@ -3,7 +3,7 @@
     {
       "enabled": true,
       "name": "reading",
-      "pattern": "*.feedly.com/*",
+      "pattern": "*feedly.com/*",
       "isRegEx": false,
       "caseSensitive": false,
       "blackList": false,
