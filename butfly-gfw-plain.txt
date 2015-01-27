@@ -46,6 +46,9 @@
 ||googlecode.com^
 ||adblockplus.org^
 ||godaddy.com^
+||mozilla.org^
+||mozilla.net^
+||mozilla.com^
 ||hayageek.com^
 ||howtogeek.com^
 ||cloudfront.net^
