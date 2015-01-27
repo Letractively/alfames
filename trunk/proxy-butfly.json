@@ -1,0 +1,310 @@
+{
+  "patterns": [
+    {
+      "enabled": true,
+      "name": "agfw",
+      "pattern": "*.i2p.rocks/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": false
+    },
+    {
+      "enabled": true,
+      "name": "news",
+      "pattern": "*.cnd.org/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "reading",
+      "pattern": "*feedly.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "cloud",
+      "pattern": "*.dropbox.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "devel",
+      "pattern": "*.hayageek.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "social",
+      "pattern": "*.facebook.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "social",
+      "pattern": "*.twitter.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "blog",
+      "pattern": "*.wordpress.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "ebusiness",
+      "pattern": "*.godaddy.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "blog",
+      "pattern": "*.blogger.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "blog",
+      "pattern": "*.blogspot.jp/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "blog",
+      "pattern": "*.blogspot.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "blog",
+      "pattern": "*.blogblog.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "google",
+      "pattern": "*.googleapis.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "wiki",
+      "pattern": "*.wikipedia.org/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "google",
+      "pattern": "*.googleusercontent.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "google",
+      "pattern": "*.ggpht.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "google",
+      "pattern": "*.googlecode.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "google",
+      "pattern": "*.gstatic.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "google",
+      "pattern": "*.google.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "social",
+      "pattern": "*.fbcdn.net/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "social",
+      "pattern": "*.akamaihd.net/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "static",
+      "pattern": "*.skimresources.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "devel",
+      "pattern": "*.howtogeek.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "static",
+      "pattern": "*.dmcdn.net/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "devel",
+      "pattern": "*.cloudfront.net/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "blog",
+      "pattern": "*.wp.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "social",
+      "pattern": "*.twimg.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "static",
+      "pattern": "*.gravatar.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "devel",
+      "pattern": "*.adblockplus.org/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "h",
+      "pattern": "*.51luoben.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "h",
+      "pattern": "*.eyny.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "h",
+      "pattern": "*.spring4u.info/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    },
+    {
+      "enabled": true,
+      "name": "h",
+      "pattern": "*.6park.com/*",
+      "isRegEx": false,
+      "caseSensitive": false,
+      "blackList": false,
+      "multiLine": true
+    }
+  ]
+}
