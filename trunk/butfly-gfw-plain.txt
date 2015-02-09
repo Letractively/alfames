@@ -38,6 +38,7 @@
 ||fbcdn.net^
 ||twimg.com^
 ||gravatar.com^
+||truste.com^
 ||skimresources.com^
 ||dmcdn.net^
 
